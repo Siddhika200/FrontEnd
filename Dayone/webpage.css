@@ -1,0 +1,29 @@
+
+        label{
+            color:rgb(228, 31, 153);
+            /* display:grid; */
+        }
+        body{
+          border: solid 2px black; 
+          text-align: center;
+          font-size: 20px;
+        
+        }
+        #h6{
+            background-color:rgb(164, 235, 164);
+        }
+        p:first-line{          /*pseudo code */
+            color:rgb(222, 56, 159);
+        }
+        .mydiv{
+    
+            display: grid;
+        }
+        #h6:hover{
+            color:rgb(17, 10, 241);
+        }
+        h1:horizontal{
+            color:greenyellow
+        }
+   
+        
